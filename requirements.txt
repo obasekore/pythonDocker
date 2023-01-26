@@ -1,0 +1,4 @@
+imageio
+numpy
+gym[atari, accept-rom-license]
+imageio-ffmpeg
